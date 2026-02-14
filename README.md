@@ -35,7 +35,7 @@ Before deploying this protocol, ensure your system meets the following requireme
 
 We have simplified the deployment process into a single command. To install the full `love-package` and initialize the heartbeat monitor, please execute the following action:
 
-**👉 [Click here to initialize installation via YouTube Audio Interface](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) 👈**
+**👉 [Click here to initialize installation via YouTube Audio Interface](https://www.youtube.com/watch?v=w9ABlwLfrQs) 👈**
 
 *Warning: Do not attempt to run this on a virtual machine. Real feelings required.*
 
