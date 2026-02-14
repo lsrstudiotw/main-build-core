@@ -50,3 +50,15 @@ $ alex-cli status
 > [INFO] Connected to Master Branch.
 > [INFO] Current Status: 愛你 (Loving You).
 > [INFO] Latency: 0ms.
+
+Known Issues
+May cause unexpected eye leakage (tears) in highly logical individuals.
+
+Excessive dopamine production may lead to reduced coding productivity.
+
+This package cannot be uninstalled easily. (No sudo rm -rf / allowed).
+
+License
+This project is licensed under the Lifetime Commitment License. See the partner's eyes for details.
+
+Maintained by System Architect Alex at Latent Space Records.
